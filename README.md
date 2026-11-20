@@ -3,7 +3,7 @@
 ## Datos del estudiante
 * Nombre y apellido: Ana Paganessi
 * Curso: 5TO A
-* Materia: Desarrollo De Soluciones informaticas
+* Materia: Desarrollo De Soluciones Digitales
 
 ---
 
