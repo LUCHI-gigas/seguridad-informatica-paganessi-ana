@@ -1,5 +1,6 @@
 # Seguridad Informática
 
+# Hola profe, como está? Queria decirle que el usuario que aparece debajo como contribuidor soy yo, Ana, pero no sé xq no me anda, ya entre y me loguee een git hub y visual y tmb ya saqué las crendeciales, siempre me pasa esto, disculpe por las molestias, gracias profe la quiero.
 ## Datos del estudiante
 * Nombre y apellido: Ana Paganessi
 * Curso: 5TO A
